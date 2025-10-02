@@ -12,3 +12,12 @@
 - BIOS/Setup: **F2**
 - Boot Menu: **F12**
 - (If F12 doesn’t open boot menu, try **Esc** at power-on.)
+
+
+## Bootable USB Creation
+
+- Tool used: **balenaEtcher**
+- ISO: `lubuntu-24.04.3-desktop-amd64.iso`
+- Target: 16 GB microSD card (USB adapter)
+- Date: 2025-10-01
+- Result: ✅ Flash successful
